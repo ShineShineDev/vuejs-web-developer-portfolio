@@ -2,7 +2,7 @@
 
 
 ### gh-pages Link
-https://shineshinedev.github.io/Vuejs-Web-Developer-Portfolio/
+https://shineshinedev.github.io/vuejs-web-developer-portfolio/
 
 
 
