@@ -1,8 +1,6 @@
 # Vuejs Web Developer Portfoli
 
 
-
-
 ### gh-pages Link
 https://shineshinedev.github.io/Vuejs-Web-Developer-Portfolio/
 
@@ -12,13 +10,11 @@ https://shineshinedev.github.io/Vuejs-Web-Developer-Portfolio/
 
 -  All Screenshot photos : https://drive.google.com/drive/folders/1nnbQhXWhYwxmiJ4RaumuXGB0qJCdy7Lz?usp=sharing
  ![image](https://drive.google.com/uc?export=view&id=1i3sUaBqmZ5joIStpCOrO9QxXqFSBk6Ho)
-
-
+ 
 
 ### Video on youtube
 https://youtu.be/LQXhje4v-Cc
-
-
+[![Watch the video](https://img.youtube.com/vi/LQXhje4v-Cc/hqdefault.jpg)](https://youtu.be/LQXhje4v-Cc)
 
 
 
