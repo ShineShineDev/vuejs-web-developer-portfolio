@@ -9,10 +9,10 @@ https://shineshinedev.github.io/Vuejs-Web-Developer-Portfolio/
 ### Screenshot photos
 
 -  All Screenshot photos : https://drive.google.com/drive/folders/1nnbQhXWhYwxmiJ4RaumuXGB0qJCdy7Lz?usp=sharing
- ![image](https://drive.google.com/uc?export=view&id=1i3sUaBqmZ5joIStpCOrO9QxXqFSBk6Ho)
+ ![image](https://drive.google.com/uc?export=view&id=1P2YhGFWGJdU57r_gnww2JM_tSXPKGv2-)
  
  
- 
+
 
 ### Video on youtube
 https://youtu.be/LQXhje4v-Cc
