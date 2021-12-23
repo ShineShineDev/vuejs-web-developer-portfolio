@@ -10,14 +10,13 @@ https://shineshinedev.github.io/Vuejs-Web-Developer-Portfolio/
 
 ### Screenshot photos
 
--  all photos in g-drive
-
-<img src="https://github.com/ShineShineDev/Vuejs-Web-Developer-Portfolio/blob/master/app-photo-1.png" alt='app-photo-1'/>
+-  All Screenshot photos : https://drive.google.com/drive/folders/1nnbQhXWhYwxmiJ4RaumuXGB0qJCdy7Lz?usp=sharing
+ ![image](https://drive.google.com/uc?export=view&id=1i3sUaBqmZ5joIStpCOrO9QxXqFSBk6Ho)
 
 
 
 ### Video on youtube
-
+https://youtu.be/LQXhje4v-Cc
 
 
 
