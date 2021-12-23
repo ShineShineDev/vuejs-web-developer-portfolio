@@ -22,7 +22,7 @@ https://youtu.be/LQXhje4v-Cc
 
 ### Download Repository
 ```
-git clone https://github.com/ShineShineDev/Vuejs-Web-Developer-Portfolio.git
+git clone https://github.com/ShineShineDev/vuejs-web-developer-portfolio.git
 ```
 
 ### Project setup
